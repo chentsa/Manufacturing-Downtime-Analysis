@@ -111,4 +111,4 @@ Enhanced Operational Efficiency
 By consolidating production, downtime, and operator data into a single dashboard, stakeholders can quickly identify inefficiencies, reduce delays, and improve overall manufacturing performance.
 
 6. Screenshots / Demo
-Dashboard Preview - 
+Dashboard Preview - https://github.com/chentsa/Manufacturing-Downtime-Analysis/blob/main/Manufacturing%20Downtime%20img.png
